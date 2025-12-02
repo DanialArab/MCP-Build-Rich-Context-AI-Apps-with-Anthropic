@@ -18,3 +18,5 @@ Everything that you're going to see with MCP can be done without MCP, but as we 
 
 ![](https://github.com/DanialArab/images/blob/main/MCP%3A%20Build%20Rich-Context%20AI%20Apps%20with%20Anthropic/MCP.png)
 
+## MCP Architecture
+
