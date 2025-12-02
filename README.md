@@ -11,4 +11,5 @@
 
  - We learn why connecting LLM applications to resources had been so difficult before, and how MCP addresses this.
  - MCP makes AI development less fragmented and it standardizes connections between AI applications and external data sources.
- - 
+
+![](https://github.com/DanialArab/images/blob/main/MCP%3A%20Build%20Rich-Context%20AI%20Apps%20with%20Anthropic/context_importance.png)
