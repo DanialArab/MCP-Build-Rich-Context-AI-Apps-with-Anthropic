@@ -9,6 +9,6 @@
 
 ## Why MCP 
 
- wE LEARN why connecting LLM applications to resources had been so difficult before, and how MCP addresses this.
+ We learn why connecting LLM applications to resources had been so difficult before, and how MCP addresses this.
 
  
