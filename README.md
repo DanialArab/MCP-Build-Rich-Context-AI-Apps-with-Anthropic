@@ -9,6 +9,6 @@
 
 ## Why MCP 
 
- We learn why connecting LLM applications to resources had been so difficult before, and how MCP addresses this.
-
- 
+ - We learn why connecting LLM applications to resources had been so difficult before, and how MCP addresses this.
+ - MCP makes AI development less fragmented and it standardizes connections between AI applications and external data sources.
+ - 
