@@ -14,5 +14,7 @@
 
 ![](https://github.com/DanialArab/images/blob/main/MCP%3A%20Build%20Rich-Context%20AI%20Apps%20with%20Anthropic/context_importance.png)
 
+Everything that you're going to see with MCP can be done without MCP, but as we think about a world in which many different models communicate with many different data sources, and even with each other, we want to make sure that we're speaking the same language. We want to standardize how our AI applications interact with external systems, instead of building the same integration for a different data source over and over and over again, depending on the model or the data source, we're instead going to build once and use everywhere. The Model Context Protocol borrows a lot of its ideas from other protocols that aim to achieve similar kind of ideas. For example, LSP, or the Language Server Protocol developed in 2016 by Microsoft, standardizes how integrated development environments interact with language-specific tools. When you create extensions for particular languages for particular development environments, you don't want to have to write that over and over again for all of those development environments. So while MCP is very novel and what it's trying to do, it stands on the shoulders of many other protocols and ideas around standardization.
+
 ![](https://github.com/DanialArab/images/blob/main/MCP%3A%20Build%20Rich-Context%20AI%20Apps%20with%20Anthropic/MCP.png)
 
