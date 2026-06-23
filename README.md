@@ -25,5 +25,5 @@ Everything that you're going to see with MCP can be done without MCP, but as we 
 
 MCP is based on a client-server architecture.
 
-<img width="1072" height="714" alt="image" src="https://github.com/user-attachments/assets/4a926d21-d292-41d1-89fd-4b88455ad269" />
+<img width="1734" height="686" alt="image" src="https://github.com/user-attachments/assets/719ac49f-d337-45f6-9de5-20e5777c99b6" />
 
