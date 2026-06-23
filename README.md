@@ -23,4 +23,7 @@ Everything that you're going to see with MCP can be done without MCP, but as we 
 
 ## MCP Architecture
 
+MCP is based on a client-server architecture.
+
+<img width="1072" height="714" alt="image" src="https://github.com/user-attachments/assets/4a926d21-d292-41d1-89fd-4b88455ad269" />
 
