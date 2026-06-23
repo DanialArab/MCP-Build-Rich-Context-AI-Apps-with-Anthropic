@@ -7,7 +7,7 @@
 - We'll first dive into the details of the MCP client-server architecture. You'll then work on a chatbot application to make it MCP compatible. You'll build and test an MCP server and connect your chatbot to it. Your MCP server will provide tools, prompt templates, and resources to your chatbot. You'll also connect your chatbot to other trusted third-party servers to extend its capabilities. You'll then re-use your MCP server and connect it to other MCP applications like Claude Desktop. Finally, you'll learn how you can deploy your MCP server remotely.
 - MCP is a really important technology that's making it much easier for LLM application developers to connect the systems to many tools and data resources. And for teams building tools or providing data, it is also making it much easier to make what they build available to many developers. So this is a technology worth learning about.
 
-## Why MCP 
+## Why MCP
 
  - We learn why connecting LLM applications to resources had been so difficult before, and how MCP addresses this.
  - MCP makes AI development less fragmented and it standardizes connections between AI applications and external data sources.
