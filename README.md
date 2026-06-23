@@ -27,3 +27,32 @@ MCP is based on a client-server architecture.
 
 <img width="1734" height="686" alt="image" src="https://github.com/user-attachments/assets/719ac49f-d337-45f6-9de5-20e5777c99b6" />
 
+<img width="1591" height="941" alt="image" src="https://github.com/user-attachments/assets/3c5fe490-0f98-43bf-8b22-363c1dbdcac4" />
+
+<img width="1828" height="788" alt="image" src="https://github.com/user-attachments/assets/03b78068-fe5a-47c1-8cce-1b4bb2723eb0" />
+
+<img width="1783" height="870" alt="image" src="https://github.com/user-attachments/assets/e092c2c4-4be5-4b77-8122-4734a33e5e49" />
+
+<img width="1598" height="839" alt="image" src="https://github.com/user-attachments/assets/3b949f44-76cf-4fa2-8317-1a5450df1a86" />
+
+<img width="1791" height="799" alt="image" src="https://github.com/user-attachments/assets/2c7fae25-0b67-45b0-9ca8-e00e1c11d892" />
+
+<img width="1880" height="964" alt="image" src="https://github.com/user-attachments/assets/71a501c0-57d5-412b-acda-b1a40a7f8917" />
+
+<img width="1853" height="829" alt="image" src="https://github.com/user-attachments/assets/9d011404-14c5-421c-9edd-7490d819a2f2" />
+
+<img width="1238" height="742" alt="image" src="https://github.com/user-attachments/assets/0d773005-eb43-4f96-befd-a94099f07457" />
+
+<img width="1356" height="814" alt="image" src="https://github.com/user-attachments/assets/379362a0-8fd6-45df-b49f-24500962cbea" />
+
+<img width="1885" height="718" alt="image" src="https://github.com/user-attachments/assets/14e5277b-4dad-4f2b-9504-ad8acfec9a67" />
+
+<img width="1236" height="939" alt="image" src="https://github.com/user-attachments/assets/f5e7cac3-fad6-405e-91f3-2f5de5b71428" />
+
+<img width="1217" height="947" alt="image" src="https://github.com/user-attachments/assets/3e9734fe-cf2b-4373-97ff-b5099f6b7e4c" />
+
+
+
+
+
+
