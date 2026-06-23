@@ -47,8 +47,6 @@ MCP is based on a client-server architecture.
 
 <img width="1885" height="718" alt="image" src="https://github.com/user-attachments/assets/14e5277b-4dad-4f2b-9504-ad8acfec9a67" />
 
-<img width="1236" height="939" alt="image" src="https://github.com/user-attachments/assets/f5e7cac3-fad6-405e-91f3-2f5de5b71428" />
-
 <img width="1217" height="947" alt="image" src="https://github.com/user-attachments/assets/3e9734fe-cf2b-4373-97ff-b5099f6b7e4c" />
 
 
